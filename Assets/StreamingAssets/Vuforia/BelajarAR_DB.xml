@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="starkpart1" size="76.000000 101.785713" />
+    <ImageTarget name="kupon" size="76.000000 161.594681" />
+    <ImageTarget name="starkpart2" size="76.000000 101.785713" />
+    <ImageTarget name="kartukereta" size="76.000000 49.221874" />
+    <ImageTarget name="kartuparkirpart1" size="76.000000 49.494999" />
+  </Tracking>
+</QCARConfig>
